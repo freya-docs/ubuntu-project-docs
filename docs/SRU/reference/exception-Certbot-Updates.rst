@@ -37,7 +37,7 @@ bug reports for individual bug fixes. See `bug
 bug should have the following:
 
 -  The SRU should be requested per the
-   `StableReleaseUpdates </howto/standard>`__
+   `StableReleaseUpdates <https://github.com/ubuntu/ubuntu-project-docs/blob/main/docs/SRU/howto/standard.rst>`__
    documented process.
 -  The template at the end of this document should be used and all
    ‘TODO’ filled out.
